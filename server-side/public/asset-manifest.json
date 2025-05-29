@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52b11a52.css",
+    "main.js": "/static/js/main.95560225.js",
+    "static/js/453.c16c11e2.chunk.js": "/static/js/453.c16c11e2.chunk.js",
+    "static/media/YouTube-Logo.wine.svg": "/static/media/YouTube-Logo.wine.77a3c0c6d8ed18519628973a4967e010.svg",
+    "index.html": "/index.html",
+    "main.52b11a52.css.map": "/static/css/main.52b11a52.css.map",
+    "main.95560225.js.map": "/static/js/main.95560225.js.map",
+    "453.c16c11e2.chunk.js.map": "/static/js/453.c16c11e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b11a52.css",
+    "static/js/main.95560225.js"
+  ]
+}

@@ -1,0 +1,44 @@
+.card-container {
+    margin-top: 50px;
+}
+
+.custom-width {
+    width: 200px; 
+}
+.list-group{
+    padding-bottom: 10px;
+}
+
+.list-group-item {
+    text-align: center;
+    padding: 0 !important;
+    height: auto !important;
+}
+.video-display-container {
+    width: 100%;
+    max-width: 700px; 
+    margin: 20px auto; 
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.video-wrapper {
+    border-radius: 5px;
+    overflow: hidden;
+}
+.comments{
+    padding-bottom: 5px;
+}
+.btn.float-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 35px;
+  }
+  .editB{
+    width: 35px;
+  }
+  .description{
+    font-size: 18px;
+  }

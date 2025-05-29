@@ -1,0 +1,10 @@
+.recommendVideos {
+    display: flex;
+    justify-content: flex-end; /* Aligns the container to the right */
+}
+
+.recommendVideos .col {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; /* Aligns the items in the column to the right */
+}

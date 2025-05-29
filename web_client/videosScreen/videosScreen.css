@@ -1,0 +1,40 @@
+
+.left-menu-container,
+.video-items-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.left-menu-container {
+    position: fixed;
+    top: 100px; 
+    left: 0;
+    height: 100vh;
+    width: 250px;
+    z-index: 1000;
+}
+
+.video-items-container {
+    margin-left: 250px; 
+    padding-top: 100px; 
+}
+
+@media (max-width: 768px) {
+    .left-menu-container {
+        position: static;
+        width: 100%;
+        height: auto;
+    }
+
+    .video-items-container {
+        margin-left: 0;
+        padding-top: 0;
+    }
+}
+.mode {
+    position: fixed;
+    left: 10px; /* Adjust this value to your preference */
+    top: 20px; /* Adjust this value to your preference */
+}
