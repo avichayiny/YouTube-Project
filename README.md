@@ -26,7 +26,7 @@ A cross-platform video-sharing application inspired by YouTube. This project enc
 ## 📸 Sneak Peek
 
 <p align="center">
-  <img src="./wiki-pages/demo.gif" width="750" alt="Application Screenshot">
+  <img src="./wiki_pages/demo.gif" width="750" alt="Application Screenshot">
 </p>
 
 ## 📁 Repository Structure
@@ -56,9 +56,12 @@ A cross-platform video-sharing application inspired by YouTube. This project enc
    g++ -pthread UpdateServer.cpp -o UpdateServer
    ./UpdateServer
 3. **Run the Web Client:** 
-  cd web-client
-  npm install
-  npm start
+  ```bash
+   cd web-client
+   npm install
+   npm start
+```
+
 4. **Run the Mobile Client:**
    * Open Android Studio.
    * Select `Open an existing project` and navigate to the `/Android-client` folder.
